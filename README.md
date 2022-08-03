@@ -5,6 +5,6 @@
   <br />
   <div>
     <p>Preview</p>
-    <img src="src/assets/exactime-preview.png" alt="Exact time page preview" />
+    <img src="src/assets/exacttime-preview.png" alt="Exact time page preview" />
   </div>
 </div>
